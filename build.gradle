@@ -1,0 +1,7 @@
+// Top-level build file for Visual Assist App (fixed)
+
+// Top-level build file for Visual Assist App
+
+plugins {
+    alias(libs.plugins.android.application) apply false
+}
